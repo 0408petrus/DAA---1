@@ -3,40 +3,40 @@ Repositori DAA - 1
 
 Nama Kelompok:
 KEL 1
-Sea
-Fransisca
+Sea,
+Fransisca,
 Wildan
 
 KEL 2
-Riyanda
-Sammytha
+Riyanda,
+Sammytha,
 Alex
 
 KEL 3
-Sutri
-Zaki
+Sutri,
+Zaki,
 Yessica
 
 KEL 4
-Johana
-Dhafin
+Johana,
+Dhafin,
 Dea
 
 KEL 5
-Rodiatul
-Karina
+Rodiatul,
+Karina,
 Iqbal
 
 KEL 6
-Elin
-Saffa
+Elin,
+Saffa,
 Shinta
 
 KEL 7
-Stephen
-Agus
+Stephen,
+Agus,
 Nurcahaya
 
 KEL 8
-Nicholas
+Nicholas,
 Fadhlur
