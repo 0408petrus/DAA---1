@@ -5,7 +5,6 @@ int main()
     cout<<"Insertion Sort\n";
     int data[8]={10,11,23,21,0,0,8,7};
 
-    //-------Insertion Sort
     int temp,j,pos;
     for(int i=1;i<8;i++)
     {
