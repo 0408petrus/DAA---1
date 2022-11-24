@@ -298,7 +298,7 @@ void sort_statis(data_statis sort[], int n)
     {
         for (int j = 0; j < n - 1; j++)
         {
-            if (sort[j].harga > sort[j + 1].harga)
+            if (sort[j].harga < sort[j + 1].harga)
             {
                 data_statis temp;
 
